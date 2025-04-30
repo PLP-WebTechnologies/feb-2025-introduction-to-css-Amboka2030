@@ -1,0 +1,33 @@
+
+#main-header {
+    background-color: #4c8caf;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.content {
+    margin: 30px;
+    padding: 20px;
+    border: 2px solid #4CAF50;
+    background-color: #f9f9f9;
+    font-family: 'Arial', sans-serif;
+}
+
+
+.intro {
+    font-size: 1.2em;
+    color: #333333;
+    line-height: 1.6;
+}
+
+
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 0.9em;
+    color: #e10c0c;
+}
